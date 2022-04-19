@@ -1,4 +1,4 @@
-# AL
+# ALIEN INVASION 
 This project was developed following Eric Mathees' Python Crash Course, Second Edition. Its a the classic game, Alien Invasion, developed in Python using Pygame.
 
 Aliens will try to Invade the Planet Earth in this game and Spacex rocket will be used to destroy them.
